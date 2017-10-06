@@ -33,7 +33,7 @@ A liquor store owner in Iowa is looking to expand to new locations and has hired
 
 * Build models of total sales based on location, price per bottle, total bottles sold. You may find it useful to build models for each county, ZIP code, or city.
 * Provide a table of the best performing stores by location type of your choice (city, county, or ZIP code) and the predictions of your model(s).
-* Based on your models and the table of data, recommend some general locations to the business owner, taking into account model performance. Validate your model's performance and ability to predict future sales using cross-validation.
+* Based on your models and the table of data, recommend at least three locations to the business owner, taking into account model performance. Validate your model's performance and ability to predict future sales using cross-validation. Compare and contrast these locations.
 * _Hint_: Rather than just identifying locations where its stores perform well, it would be good to try and identify locations that are undersaturated. You may want additional data to help answer this problem.
 * _Bonus_: Recommend targets for volume sold and price per bottle!
 
