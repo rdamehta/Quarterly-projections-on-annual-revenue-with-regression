@@ -91,8 +91,9 @@ Your work must:
 ### Necessary Deliverables / Submission
 
 - Materials must be in a clearly commented Jupyter Notebook that satisfies project requirements.
-- Materials must be submitted via a GitHub pull request to the instructor's repo.
-- Materials must be submitted by Monday, October 23 at 9:00:00 a.m. EST.
+- You must submit a set of .pdf slides associated with your presentation.
+- You must, at minimum, have a link to your slides and a link to your Jupyter notebook on your personal static site.
+- Materials must be submitted by Monday, October 23 at 9:00:00 a.m. EST. You will submit a link to your slides, your link to your Jupyter notebook, and your link to your static site via Google form. If your slides are not hosted online, you may Slack your slides to a DSIR.
 
 ---
 
@@ -106,7 +107,7 @@ The dataset transactions for all stores that have a class E liquor license in th
 
 The dataset contains the same information as the data above, but just 10% of the original sample.
 
-Students interested in viewing the original, unreduced file can compare the reduced Project version with the [original full version, found here](http://marcharper.codes/Iowa_Liquor_Sales-all.zip). In fact, Iowa provides over 2gb of data stretching further back in time! This can be a useful tool to help understand the need to frame and filter data.
+Students interested in viewing the original, unreduced file can compare the reduced Project version with the [original full version, found here](http://marcharper.codes/Iowa_Liquor_Sales-all.zip). In fact, Iowa provides over 2GB of data stretching further back in time! This can be a useful tool to help understand the need to frame and filter data.
 
 **We expect your final work to be done with the 100% dataset!**
 
