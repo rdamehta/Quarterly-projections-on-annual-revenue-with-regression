@@ -147,13 +147,13 @@ Students interested in viewing the original, unreduced file can compare the redu
 
 ### Project Feedback + Evaluation
 
-Your instructors will score each of your technical requirements using the scale below:
+Your instructors will score you using the scale below:
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+|      **Score**     |     **Expectations**     |
+|:-------------:|:--------------:|
+|  **0** | Fail. At least one project criterion was not met or some flagrant issue occurred. |
+| **1** | Pass. Project criteria were minimally met. Non-trivial changes would be needed to make this work-ready.    |
+| **2** | Pass. Project criteria were met. This presentation needs, at most, trivial changes to be work-ready. |
+| **3** | Pass. This presentation is excellent, exceeds requirements in a substantial way, and is a model for the rest of the class. |
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+ This will serve as a helpful overall gauge of whether you met the project goals!
