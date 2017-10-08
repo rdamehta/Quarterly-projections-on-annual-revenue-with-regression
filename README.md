@@ -3,7 +3,7 @@
 ### Overview
 Next week we'll learn how to use scikit-learn to run linear regression models, how goals & business objectives translate to model fit, and how to optimize models using cross-validation. We're going to use these skills to dig into a rich set of data on this project!
 
-The state of Iowa provides many datasets on their website, including [https://www.dropbox.com/s/5oiz27mhvsiibo8/iowa_liquor_sales_proj_2.csv?dl=0](https://www.dropbox.com/sh/pf5n5sgfgiri3i8/AACkaMeL_i_WgZ00rpxOOcysa?dl=0) which contains transactions for all stores that have a class E liquor license.
+The state of Iowa provides many datasets on their website, including [this](https://www.dropbox.com/s/5oiz27mhvsiibo8/iowa_liquor_sales_proj_2.csv?dl=0) which contains transactions for all stores that have a class E liquor license.
 
 NOTE: The dataset may be too big for you to analyze. In this case, feel free to use [this 10% dataset version of Iowa liquor sales](https://drive.google.com/file/d/0Bx2SHQGVqWaseDB4QU9ZSVFDY2M/view?usp=sharing). You may want to use it anyway to test your code since it will be faster.
 
@@ -53,7 +53,7 @@ Your work must:
 
 **Acquire the data**
 - Obtain the data [here](https://www.dropbox.com/s/5oiz27mhvsiibo8/iowa_liquor_sales_proj_2.csv?dl=0) -- it's from [Iowa.gov](Iowa.gov), filtered and reduced a bit.
-- There is a further reduced version that is 10% of the version above [here].(https://drive.google.com/file/d/0Bx2SHQGVqWaseDB4QU9ZSVFDY2M/view?usp=sharing)
+- There is a further reduced version that is 10% of the version above [here](https://drive.google.com/file/d/0Bx2SHQGVqWaseDB4QU9ZSVFDY2M/view?usp=sharing).
 
 **Explore the data**
 - Import data using the Pandas Library.
