@@ -77,7 +77,12 @@ Your work must:
 
 **Present the results**
 - Create a Jupyter Notebook hosted on GitHub Enterprise that provides a dataset overview with visualizations, statistical analysis, data cleaning methodologies, and models.
-- Create a write-up on the interpretation of findings including an executive summary with conclusions and next steps.
+- Create a README file in your repository that, _at a minimum_, includes the following:
+  1. A table of contents for your repository
+  2. A description of the dataset
+  3. An overview of the key insights from your project
+  4. A non-technical explanation of your regression model, including most important features.
+  5. A list of concepts / skill keywords you used in the project (think: words a recruiter might be looking for)
 
 ***Bonus!:***
 - Identify and discuss outliers.
