@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Liquor Sales + Linear Regression
 
 ### Overview
-Next week we'll learn how to use scikit-learn to run linear regression models, how goals & business objectives translate to model fit, and how to optimize models using cross-validation. We're going to use these skills to dig into a rich set of data on this project!
+In week 3 we'll learn how to use scikit-learn to create linear regression models, how goals & business objectives translate to model fit, and how to optimize models using cross-validation. We're going to use these skills to dig into a rich set of data on this project!
 
 The state of Iowa provides many datasets on their website, including [this](https://www.dropbox.com/s/5oiz27mhvsiibo8/iowa_liquor_sales_proj_2.csv?dl=0) which contains transactions for all stores that have a class E liquor license.
 
@@ -92,8 +92,7 @@ Your work must:
 
 - Materials must be in a clearly commented Jupyter Notebook that satisfies project requirements.
 - You must submit a set of .pdf slides associated with your presentation.
-- You must, at minimum, have a link to your slides and a link to your Jupyter notebook on your personal static site.
-- Materials must be submitted by Monday, October 23 at 9:00:00 a.m. EST. You will submit a link to your slides, your link to your Jupyter notebook, and your link to your static site via Google form. If your slides are not hosted online, you may Slack your slides to a DSIR.
+- Materials must be submitted by Friday, February 9 at 10:00 AM EST/9:00 AM CST. 
 
 ---
 
@@ -130,7 +129,7 @@ Students interested in viewing the original, unreduced file can compare the redu
 
 3. Take advantage of Pandas as much as possible -- the `groupby`, `summation`, and other features of DataFrames can make computing the necessary summary data much easier. This is a great time to practice what you learned in Week 2!
 
-4. Take care in the presentation of your results. Your audience non-technical, so explain your findings in accessible language.
+4. Take care in the presentation of your results. Assume your audience is non-technical, so explain your findings in accessible language.
 
 **General suggestions:**
 - Write pseudocode before you write actual code. Thinking through the logic of something helps.  
@@ -169,12 +168,4 @@ When evaluating projects, there are four areas on which your instructors focus.
   - Did you make your recommendations clear, or were the recommendations unclear?
   - Were your recommendations data-driven and based on the results of your work?
 
-You will earn a score for each of the four areas mentioned above.
-1. Project Requirements: You may earn a score of 0 or 1. You will earn a score of 1 if all project requirements are met. Otherwise, you will earn a score of 0.
-2. Audience: You may earn a score between 0 and 3. A score of 0 indicates that your presentation is inappropriate for the stakeholder. A score of 1 indicates that at least part of your presentation should be non-trivially reworked to be more appropriate for the stakeholder. A score of 2 indicates that there are few to no areas of your presentation that should be reworked. A score of 3 indicates that your presentation is consistently appropriate for the stakeholder and serves as a model for future presentations.
-3. Methods: You may earn a score between 0 and 3. A score of 0 indicates that your methods are inappropriate. A score of 1 indicates that your methods are somewhat inappropriate, that justification for methodological decisions is lacking, and/or that your conclusions do not follow from the methods. A score of 2 indicates that your methods are appropriate, justification is sufficient/strong, and your conclusions follow well from the methods. A score of 3 indicates that your methods are excellent, strongly defended, and serves model for future presentations.
-4. Value: You may earn a score between 0 and 3. A score of 0 indicates that you provide little to no value to the stakeholder. A score of 1 indicates that the value you provide to the stakeholder is substantially less than expected by not answering the problem, not providing clear recommendations to the stakeholder, and/or providing recommendations that were not data-driven. A score of 2 indicates that the value you provide to the stakeholder is on par with the expectation of providing clear, data-driven recommendations that directly answer the problem posed. A score of 3 indicates that the value you provide to the stakeholder is beyond what is expected and serves as a model for future presentations.
-
-Your final grade will be calculated as follows:
-- If any project requirement is not met, the final grade is 'Fail' with a score of 0.
-- If all project requirements are met, then the final grade is 'Pass' with a score calculated by summing the above scores. Therefore, if all project requirements are met, the final score will be between a 1 and 10.
+Your final assessment ("grade," if you will) will be calculated based on a [topical rubric](https://docs.google.com/spreadsheets/d/19k8OZ42xzr7v9GDv2IUyD175yGjJlwTNokcufwX9Ago/edit?usp=sharing).  For each category, you will receive a score of 0-3.  From the [rubric](https://docs.google.com/spreadsheets/d/19k8OZ42xzr7v9GDv2IUyD175yGjJlwTNokcufwX9Ago/edit?usp=sharing) you can see descriptions of each score and what is needed to attain those scores.  **Make sure you look at the "Rubric P2" tab of the spreadsheet.**
