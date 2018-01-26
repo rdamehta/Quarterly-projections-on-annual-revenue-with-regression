@@ -149,23 +149,4 @@ Students interested in viewing the original, unreduced file can compare the redu
 
 Data science is a field in which we apply data to solve real-world problems. Therefore, projects and presentations are means by which we can assess your ability to solve real-world problems in a data-driven manner.
 
-When evaluating projects, there are four areas on which your instructors focus.
-1. **Project Requirements: Did you meet all project requirements?** In answering this question, your instructors want to assess how well you met the project requirements as established. These will generally be laid out in the project readme.
-
-2. **Audience: Is your presentation appropriate for the stakeholder?** In answering this question, your instructors want to assess how well you present your results to stakeholders. For example:
-  - Did you frame the problem appropriately for the audience?
-  - Did you use the appropriate level of technical language for your audience?
-  - Did you effectively use your time, or did you encounter an issue such as going significantly beyond or under the allotted time or rushing to conclude the presentation in the allotted time?
-  - Did you present effectively, or were there things that detract from the overall presentation such as not speaking loudly enough for the audience or repeating oneself?
-
-3. **Methods: Are your methods appropriate for solving the problem?** In answering this question, your instructors want to assess how well you have applied data science methodology to the problem at hand. For example:
-  - Did you make well-reasoned modeling choices, or is there clear evidence that the model is inadequate or improper?
-  - Are you able to clearly defend your methodological decisions and results?
-  - Did you generalize your results properly, or were your conclusions/inferences improper or fallacious?
-
-4. **Value: Have you provided value to the stakeholder through clear, data-driven recommendations?** In answering this question, your instructors want to assess the value you provide to the stakeholder as a data scientist. For example:
-  - Did you answer the problem posed to you?
-  - Did you make your recommendations clear, or were the recommendations unclear?
-  - Were your recommendations data-driven and based on the results of your work?
-
 Your final assessment ("grade," if you will) will be calculated based on a [topical rubric](https://docs.google.com/spreadsheets/d/19k8OZ42xzr7v9GDv2IUyD175yGjJlwTNokcufwX9Ago/edit?usp=sharing).  For each category, you will receive a score of 0-3.  From the [rubric](https://docs.google.com/spreadsheets/d/19k8OZ42xzr7v9GDv2IUyD175yGjJlwTNokcufwX9Ago/edit?usp=sharing) you can see descriptions of each score and what is needed to attain those scores.  **Make sure you look at the "Rubric P2" tab of the spreadsheet.**
