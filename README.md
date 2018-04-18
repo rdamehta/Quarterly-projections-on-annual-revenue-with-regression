@@ -1,4 +1,4 @@
-# Iowa Liquor Sales + Linear Regression
+# Using Regression Models to Forecast Annual Sales Amongst Liquor Stores in the State of Iowa
 
 ### Overview
 I wanted to use scikit-learn to create linear regression models, disoover how goals & business objectives translate to model fit, and how to optimize models using cross-validation.
